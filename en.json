@@ -1,5 +1,1 @@
-{
-    "activity_select_error": "An error occurred while trying to join the activity",
-    "activity_leave_request_error": "An error occurred while trying to leave the activity",
-    "activity_leave_request_error_invalid": "You're not currently in a valid activity."
-}
+{}
