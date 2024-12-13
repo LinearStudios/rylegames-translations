@@ -1,5 +1,5 @@
 {
-    "activity_select_error": "Une erreur s'est produite lors de la participation à l'activité",
+    "activity_select_error": "Une erreur s'est produite en essayant de rejoindre l'activité",
     "activity_leave_request_error": "Une erreur s'est produite en essayant de quitter l'activité",
     "activity_leave_request_error_invalid": "Vous n'êtes pas dans une activité valide."
 }
