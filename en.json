@@ -1,5 +1,6 @@
 {
     "activity_select_error": "An error occurred while trying to join the activity",
     "activity_leave_request_error": "An error occurred while trying to leave the activity",
-    "activity_leave_request_error_invalid": "You are not in a valid activity."
+    "activity_leave_request_error_invalid": "You are not in a valid activity.",
+    "searching_players": "Searching for a game.{0}"
 }
