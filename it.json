@@ -1,1 +1,6 @@
-{}
+{
+    "activity_select_error": "Si è verificato un errore durante il tentativo di partecipare all'attività",
+    "activity_leave_request_error": "Si è verificato un errore durante il tentativo di lasciare l'attività",
+    "activity_leave_request_error_invalid": "Non sei in un'attività valida.",
+    "searching_players": "Ricerca di una partita.{0}"
+}
