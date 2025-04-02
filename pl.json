@@ -1,1 +1,6 @@
-{}
+{
+    "activity_select_error": "Wystąpił błąd podczas próby dołączenia do aktywności",
+    "activity_leave_request_error": "Wystąpił błąd podczas próby opuszczenia aktywności",
+    "activity_leave_request_error_invalid": "Nie jesteś w prawidłowej aktywności.",
+    "searching_players": "Wyszukiwanie meczu.{0}"
+}
