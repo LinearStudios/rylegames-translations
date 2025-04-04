@@ -1,1 +1,6 @@
-{}
+{
+    "activity_select_error": "Beim Versuch, der Aktivität beizutreten, ist ein Fehler aufgetreten",
+    "activity_leave_request_error": "Beim Versuch, die Aktivität zu verlassen, ist ein Fehler aufgetreten",
+    "activity_leave_request_error_invalid": "Du befindest dich nicht in einer gültigen Aktivität.",
+    "searching_players": "Spiel wird gesucht.{0}"
+}
