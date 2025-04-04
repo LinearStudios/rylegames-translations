@@ -1,0 +1,6 @@
+{
+    "activity_select_error": "เกิดข้อผิดพลาดขณะพยายามเข้าร่วมกิจกรรม",
+    "activity_leave_request_error": "เกิดข้อผิดพลาดขณะพยายามออกจากกิจกรรม",
+    "activity_leave_request_error_invalid": "คุณไม่ได้อยู่ในกิจกรรมที่ถูกต้อง",
+    "searching_players": "กำลังค้นหาเกม.{0}"
+}
