@@ -1,0 +1,6 @@
+{
+    "activity_select_error": "Při pokusu o připojení k aktivitě došlo k chybě",
+    "activity_leave_request_error": "Při pokusu o opuštění aktivity došlo k chybě",
+    "activity_leave_request_error_invalid": "Neúčastníš se platné aktivity.",
+    "searching_players": "Hledání hry.{0}"
+}
