@@ -1,0 +1,6 @@
+{
+    "activity_select_error": "Hiba történt a tevékenységhez való csatlakozás során",
+    "activity_leave_request_error": "Hiba történt a tevékenység elhagyása során",
+    "activity_leave_request_error_invalid": "Nem vagy érvényes tevékenységben.",
+    "searching_players": "Játék keresése folyamatban.{0}"
+}
