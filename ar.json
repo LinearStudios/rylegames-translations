@@ -1,0 +1,6 @@
+{
+    "activity_select_error": "حدث خطأ أثناء محاولة الانضمام إلى النشاط",
+    "activity_leave_request_error": "حدث خطأ أثناء محاولة مغادرة النشاط",
+    "activity_leave_request_error_invalid": "أنت لست في نشاط صالح.",
+    "searching_players": "جاري البحث عن لعبة.{0}"
+}
