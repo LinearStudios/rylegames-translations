@@ -1,0 +1,6 @@
+{
+    "activity_select_error": "Der opstod en fejl under forsøget på at deltage i aktiviteten",
+    "activity_leave_request_error": "Der opstod en fejl under forsøget på at forlade aktiviteten",
+    "activity_leave_request_error_invalid": "Du er ikke i en gyldig aktivitet.",
+    "searching_players": "Søger efter spil.{0}"
+}
