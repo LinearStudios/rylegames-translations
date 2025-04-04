@@ -1,1 +1,6 @@
-{}
+{
+    "activity_select_error": "Se produjo un error al intentar unirse a la actividad",
+    "activity_leave_request_error": "Se produjo un error al intentar salir de la actividad",
+    "activity_leave_request_error_invalid": "No estás en una actividad válida.",
+    "searching_players": "Buscando una partida.{0}"
+}
