@@ -2,5 +2,21 @@
     "activity_select_error": "Ocorreu um erro ao tentar participar da atividade",
     "activity_leave_request_error": "Ocorreu um erro ao tentar sair da atividade",
     "activity_leave_request_error_invalid": "Você não está em uma atividade válida.",
-    "searching_players": "Procurando uma partida.{0}"
+    "searching_players": "Procurando uma partida.{0}",
+    "red_team": "Equipe <#dc2626>Vermelha",
+    "blue_team": "Equipe <#2563eb>Azul",
+    "green_team": "Equipe <#16a34a>Verde",
+    "join": "Entrar",
+    "gamemodes": "Modos de jogo",
+    "player_lvl": "Nível <#5936a0>{0}",
+    "add": "Adicionar",
+    "add_friend": "Adicionar amigo",
+    "current_activity": "Jogando em {0}",
+    "accept": "Aceitar",
+    "refuse": "Recusar",
+    "notifications": "Notificações",
+    "friend_list": "Lista de amigos",
+    "online": "Online",
+    "offline": "Offline"
+
 }
