@@ -2,5 +2,21 @@
     "activity_select_error": "An error occurred while trying to join the activity",
     "activity_leave_request_error": "An error occurred while trying to leave the activity",
     "activity_leave_request_error_invalid": "You are not in a valid activity.",
-    "searching_players": "Searching for a game.{0}"
+    "searching_players": "Searching for a game.{0}",
+    "red_team": "Team <#dc2626>Red",
+    "blue_team": "Team <#2563eb>Blue",
+    "green_team": "Team <#16a34a>Green",
+    "join": "Join",
+    "gamemodes": "Game Modes",
+    "player_lvl": "Level <#5936a0>{0}",
+    "add": "Add",
+    "add_friend": "Add Friend",
+    "current_activity": "Playing on {0}",
+    "accept": "Accept",
+    "refuse": "Refuse",
+    "notifications": "Notifications",
+    "friend_list": "Friends List",
+    "online": "Online",
+    "offline": "Offline"
+
 }
