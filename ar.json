@@ -2,5 +2,21 @@
     "activity_select_error": "حدث خطأ أثناء محاولة الانضمام إلى النشاط",
     "activity_leave_request_error": "حدث خطأ أثناء محاولة مغادرة النشاط",
     "activity_leave_request_error_invalid": "أنت لست في نشاط صالح.",
-    "searching_players": "جاري البحث عن لعبة.{0}"
+    "searching_players": "جاري البحث عن لعبة.{0}",
+    "red_team": "فريق <#dc2626>أحمر",
+    "blue_team": "فريق <#2563eb>أزرق",
+    "green_team": "فريق <#16a34a>أخضر",
+    "join": "انضمام",
+    "gamemodes": "أوضاع اللعب",
+    "player_lvl": "المستوى <#5936a0>{0}",
+    "add": "إضافة",
+    "add_friend": "إضافة صديق",
+    "current_activity": "يلعب في {0}",
+    "accept": "قبول",
+    "refuse": "رفض",
+    "notifications": "الإشعارات",
+    "friend_list": "قائمة الأصدقاء",
+    "online": "متصل",
+    "offline": "غير متصل"
+
 }
