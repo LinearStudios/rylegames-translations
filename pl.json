@@ -2,5 +2,21 @@
     "activity_select_error": "Wystąpił błąd podczas próby dołączenia do aktywności",
     "activity_leave_request_error": "Wystąpił błąd podczas próby opuszczenia aktywności",
     "activity_leave_request_error_invalid": "Nie jesteś w prawidłowej aktywności.",
-    "searching_players": "Wyszukiwanie meczu.{0}"
+    "searching_players": "Wyszukiwanie meczu.{0}",
+    "red_team": "Drużyna <#dc2626>Czerwona",
+    "blue_team": "Drużyna <#2563eb>Niebieska",
+    "green_team": "Drużyna <#16a34a>Zielona",
+    "join": "Dołącz",
+    "gamemodes": "Tryby gry",
+    "player_lvl": "Poziom <#5936a0>{0}",
+    "add": "Dodaj",
+    "add_friend": "Dodaj znajomego",
+    "current_activity": "Gra na {0}",
+    "accept": "Akceptuj",
+    "refuse": "Odrzuć",
+    "notifications": "Powiadomienia",
+    "friend_list": "Lista znajomych",
+    "online": "Online",
+    "offline": "Offline"
+
 }
