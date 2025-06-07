@@ -1,1 +1,22 @@
-{}
+{
+    "activity_select_error": "Si è verificato un errore durante il tentativo di partecipare all'attività",
+    "activity_leave_request_error": "Si è verificato un errore durante il tentativo di lasciare l'attività",
+    "activity_leave_request_error_invalid": "Non sei in un'attività valida.",
+    "searching_players": "Ricerca di una partita.{0}",
+    "red_team": "Squadra <#dc2626>Rossa",
+    "blue_team": "Squadra <#2563eb>Blu",
+    "green_team": "Squadra <#16a34a>Verde",
+    "join": "Unisciti",
+    "gamemodes": "Modalità di gioco",
+    "player_lvl": "Livello <#5936a0>{0}",
+    "add": "Aggiungi",
+    "add_friend": "Aggiungi amico",
+    "current_activity": "Sta giocando su {0}",
+    "accept": "Accetta",
+    "refuse": "Rifiuta",
+    "notifications": "Notifiche",
+    "friend_list": "Lista amici",
+    "online": "Online",
+    "offline": "Offline"
+
+}

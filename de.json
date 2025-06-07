@@ -1,1 +1,22 @@
-{}
+{
+    "activity_select_error": "Beim Versuch, der Aktivität beizutreten, ist ein Fehler aufgetreten",
+    "activity_leave_request_error": "Beim Versuch, die Aktivität zu verlassen, ist ein Fehler aufgetreten",
+    "activity_leave_request_error_invalid": "Du befindest dich nicht in einer gültigen Aktivität.",
+    "searching_players": "Spiel wird gesucht.{0}",
+    "red_team": "Team <#dc2626>Rot",
+    "blue_team": "Team <#2563eb>Blau",
+    "green_team": "Team <#16a34a>Grün",
+    "join": "Beitreten",
+    "gamemodes": "Spielmodi",
+    "player_lvl": "Stufe <#5936a0>{0}",
+    "add": "Hinzufügen",
+    "add_friend": "Freund hinzufügen",
+    "current_activity": "Spielt auf {0}",
+    "accept": "Annehmen",
+    "refuse": "Ablehnen",
+    "notifications": "Benachrichtigungen",
+    "friend_list": "Freundesliste",
+    "online": "Online",
+    "offline": "Offline"
+
+}

@@ -1,1 +1,22 @@
-{}
+{
+    "activity_select_error": "Se produjo un error al intentar unirse a la actividad",
+    "activity_leave_request_error": "Se produjo un error al intentar salir de la actividad",
+    "activity_leave_request_error_invalid": "No estás en una actividad válida.",
+    "searching_players": "Buscando una partida.{0}",
+    "red_team": "Equipo <#dc2626>Rojo",
+    "blue_team": "Equipo <#2563eb>Azul",
+    "green_team": "Equipo <#16a34a>Verde",
+    "join": "Unirse",
+    "gamemodes": "Modos de juego",
+    "player_lvl": "Nivel <#5936a0>{0}",
+    "add": "Agregar",
+    "add_friend": "Agregar amigo",
+    "current_activity": "Jugando en {0}",
+    "accept": "Aceptar",
+    "refuse": "Rechazar",
+    "notifications": "Notificaciones",
+    "friend_list": "Lista de amigos",
+    "online": "En línea",
+    "offline": "Desconectado"
+
+}
