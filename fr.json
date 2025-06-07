@@ -2,5 +2,21 @@
     "activity_select_error": "Une erreur s'est produite en essayant de rejoindre l'activité",
     "activity_leave_request_error": "Une erreur s'est produite en essayant de quitter l'activité",
     "activity_leave_request_error_invalid": "Vous n'êtes pas dans une activité valide.",
-    "searching_players": "Recherche d'une partie.{0}"
+    "searching_players": "Recherche d'une partie.{0}",
+    "red_team": "Équipe <#dc2626>Rouge",
+    "blue_team": "Équipe <#2563eb>Bleue",
+    "green_team": "Équipe <#16a34a>Verte",
+    "join": "Rejoindre",
+    "gamemodes": "Modes de jeu",
+    "player_lvl": "Niveau <#5936a0>{0}",
+    "add": "Ajouter",
+    "add_friend": "Ajouter un ami",
+    "current_activity": "Joue sur {0}",
+    "accept": "Accepter",
+    "refuse": "Refuser",
+    "notifications": "Notifications",
+    "friend_list": "Liste d'amis",
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "ac_weapon_removed": "L'arme équipée n'est pas légitime, nous l'avons retirée."
 }
