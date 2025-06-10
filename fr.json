@@ -18,5 +18,36 @@
     "friend_list": "Liste d'amis",
     "online": "En ligne",
     "offline": "Hors ligne",
+<<<<<<< Updated upstream
     "ac_weapon_removed": "L'arme équipée n'est pas légitime, nous l'avons retirée."
+=======
+    "ffa_leaderboard": "Classement FFA",
+    "ffa_subtitle": "Free For All - Tous contre tous",
+    "rank": "Rang",
+    "player": "Joueur",
+    "score": "Score",
+    "kills": "Kills",
+    "deaths": "Morts",
+    "assists": "Assistances",
+    "kd_ratio": "K/D",
+    "connected_players": "Joueurs connectés",
+    "total_kills": "Total Kills",
+    "best_player": "Meilleur joueur",
+    "you": "Vous",
+    "welcome": "Bienvenue",
+    "create_profile_subtitle": "Créez votre profil pour commencer",
+    "pseudo": "Pseudo",
+    "pseudo_placeholder": "Entrez votre pseudo",
+    "gender": "Genre",
+    "male": "Homme",
+    "female": "Femme",
+    "continue": "Continuer",
+    "join_server": "Rejoindre le serveur",
+    "discord_subtitle": "Utilisez votre token pour accéder au Discord",
+    "auth_token": "Token d'authentification",
+    "instructions": "Instructions",
+    "discord_instructions": "Copiez le token et collez-le dans le salon <#5936A0>#verification</span> sur le Discord RyleGames, puis cliquez sur \"Accéder au Serveur\".",
+    "access_server": "Accéder au Serveur",
+    "copied": "Copié !"
+>>>>>>> Stashed changes
 }
