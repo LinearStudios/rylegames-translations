@@ -49,10 +49,8 @@
     "ffa_guide_subtitle": "Éliminez un maximum de joueurs.",
     "ffa_guide_description": "Éliminez un maximum de joueurs possible dans une partie de 15 minutes. À la fin des parties, vous gagnez des Coins et de l'XP et les armes sont données automatiquement lors de la partie.",
     "ffa_guide_shortcuts_title": "Informations Globales",
-    "ffa_guide_shortcuts": {
-        "15min": "Partie de 15 min",
-        "TAB": "Voir le tableau des scores",
-        "Auto": "Pistolet"
-    },
+    "ffa_guide_shortcuts_one": "Partie de 15 min",
+    "ffa_guide_shortcuts_two": "Voir le tableau des scores",    
+    "ffa_guide_shortcuts_three": "Pistolet",
     "ffa_guide_close": "Pour Fermer le Menu"
 }
