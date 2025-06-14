@@ -56,5 +56,5 @@
     "self_killed": "Vous vous êtes suicidé.",
     "killed_by": "Vous avez été tué par ~y~{0}~s~",
     "made_kill": "Vous avez tué ~y~{0}~s~",
-    "welcome_lobby_text": "~c~Bienvenue ~y~{0}~c~ sur ~p~RyleGames~c~\n{1}"
+    "welcome_lobby_text": "~c~Bienvenue ~y~{0}~c~ sur ~p~RyleGames~r~\n{1}~s~"
 }
