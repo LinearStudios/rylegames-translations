@@ -1,0 +1,21 @@
+{
+    "activity_select_error": "Произошла ошибка при попытке присоединиться к активности",
+    "activity_leave_request_error": "Произошла ошибка при попытке выйти из активности",
+    "activity_leave_request_error_invalid": "Вы не находитесь в действительной активности.",
+    "searching_players": "Поиск игры.{0}",
+    "red_team": "Команда <#dc2626>Красная",
+    "blue_team": "Команда <#2563eb>Синяя",
+    "green_team": "Команда <#16a34a>Зелёная",
+    "join": "Присоединиться",
+    "gamemodes": "Режимы игры",
+    "player_lvl": "Уровень <#5936a0>{0}",
+    "add": "Добавить",
+    "add_friend": "Добавить в друзья",
+    "current_activity": "Играет в {0}",
+    "accept": "Принять",
+    "refuse": "Отклонить",
+    "notifications": "Уведомления",
+    "friend_list": "Список друзей",
+    "online": "В сети",
+    "offline": "Не в сети"
+}
