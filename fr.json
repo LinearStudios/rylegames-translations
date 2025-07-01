@@ -63,5 +63,7 @@
     "killed_by": "Vous avez été tué par ~y~{0}~s~",
     "made_kill": "Vous avez tué ~y~{0}~s~",
     "welcome_lobby_text": "~c~Bienvenue ~y~{0}~c~ sur ~p~RyleGames~r~\n{1}~s~",
-    "zone_exit_warning_text": "Vous avez ~r~{0}~s~ secondes pour revenir dans la zone"
+    "zone_exit_warning_text": "Vous avez ~r~{0}~s~ secondes pour revenir dans la zone",
+    "return_lobby": "Retourner au lobby",
+    "restart_game": "Relancer une partie"
 }
