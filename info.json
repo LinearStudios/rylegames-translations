@@ -31,7 +31,11 @@
         {
             "code": "pt",
             "name": "Português"
+        },
+        {
+            "code": "ru",
+            "name": "Русский"
         }
     ],
-    "defaultLanguage": "fr"
+    "defaultLanguage": "en"
 }
