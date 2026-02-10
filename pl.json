@@ -207,5 +207,7 @@
     "red": "Czerwona",
     "loadout": "Wyposażenie",
     "health_kit": "Apteczka",
-    "shield": "Tarcza"
+    "shield": "Tarcza",
+    "players_list": "Lista graczy",
+    "view_all_players_online": "Zobacz wszystkich graczy online"
 }

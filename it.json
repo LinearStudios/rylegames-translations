@@ -207,5 +207,7 @@
     "red": "Rosso",
     "loadout": "Equipaggiamento",
     "health_kit": "Kit di pronto soccorso",
-    "shield": "Scudo"
+    "shield": "Scudo",
+    "players_list": "Elenco giocatori",
+    "view_all_players_online": "Visualizza tutti i giocatori online"
 }

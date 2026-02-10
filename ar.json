@@ -207,5 +207,7 @@
     "red": "أحمر",
     "loadout": "التجهيزات",
     "health_kit": "حقيبة إسعافات",
-    "shield": "درع"
+    "shield": "درع",
+    "players_list": "قائمة اللاعبين",
+    "view_all_players_online": "عرض جميع اللاعبين المتصلين"
 }

@@ -207,5 +207,7 @@
     "red": "Rojo",
     "loadout": "Equipamiento",
     "health_kit": "Botiquín",
-    "shield": "Escudo"
+    "shield": "Escudo",
+    "players_list": "Lista de jugadores",
+    "view_all_players_online": "Ver todos los jugadores en línea"
 }

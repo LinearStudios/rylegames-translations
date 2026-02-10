@@ -207,5 +207,7 @@
     "red": "Rot",
     "loadout": "Ausrüstung",
     "health_kit": "Erste-Hilfe-Set",
-    "shield": "Schild"
+    "shield": "Schild",
+    "players_list": "Spielerliste",
+    "view_all_players_online": "Alle Online-Spieler anzeigen"
 }
