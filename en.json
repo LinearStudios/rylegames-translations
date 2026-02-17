@@ -382,5 +382,27 @@
     "settings_gap": "Gap",
     "settings_opacity": "Opacity",
     "settings_outline": "Outline",
-    "settings_center_dot": "Center Dot"
+    "settings_center_dot": "Center Dot",
+
+    "duel_title": "DUEL",
+    "duel_selected_map": "Selected map",
+    "duel_1v1": "1 vs 1",
+    "duel_player_ready_status": "READY",
+    "duel_player_waiting_status": "WAITING",
+    "duel_cross_server": "BETA - Cross-Server Match",
+    "duel_cross_server_desc": "You are facing a player on another server. This feature is experimental and may be unstable.",
+    "duel_searching_local": "Local search...",
+    "duel_searching_crossserver": "🌍 Cross-server search...",
+    "duel_searching_opponent": "Searching for opponent ({0}/2)",
+    "duel_waiting_ready": "Waiting for everyone to be ready...",
+    "duel_migration_title": "Cross-Server Migration",
+    "duel_connecting_server": "Connecting to server {0}...",
+
+    "ready_btn": "Ready",
+    "ready_confirmed_btn": "✓ Ready",
+    "ready_count_label": "Ready",
+    "waiting_for_players": "Waiting for players",
+
+    "zoneshift_players_missing": "{0} player(s) missing",
+    "zoneshift_searching_players": "Searching for players ({0}/{1})"
 }
