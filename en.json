@@ -248,7 +248,6 @@
     "zoneshift_heal_denied": "No heal charges left",
     "zoneshift_kevlar_denied": "No kevlar charges left",
     "zoneshift_action_cancelled": "Action cancelled - you took damage!",
-    "zoneshift_charges_remaining": "{0} remaining",
     "hammer": "Hammer",
     "handguns": "Handguns",
     "health": "Health",
