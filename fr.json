@@ -654,6 +654,8 @@
     "to_call_medic": "pour appeler un Médic",
     "to_go_back_safe_zone": "pour retourner en Zone safe",
     "to_go_back_safe_zone_short": "to go back in Safe Zone",
+    "to_report": "pour signaler ce joueur",
+    "reported": "joueur signalé",
     "to_respawn": "pour réapparaître",
     "to_respawn_short": "to respawn",
     "total_kills": "Total Kills",
